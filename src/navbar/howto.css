@@ -1,0 +1,66 @@
+.howto{
+   
+    padding: 136px, 160px;
+}
+.how1{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; /* 116.667% */
+    letter-spacing: -0.96px;
+    color: #FCFCFD;
+}
+.how2{
+    text-align: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #E6E8EC;
+    padding-bottom: 60px;
+}
+.clients1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 30px;
+}
+.stepp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding-bottom: 136px;
+}
+.stepping{
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    color: #777E90;
+    text-align: center;
+}
+.downloads{
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    color: #FCFCFD;
+    text-align: center;
+}
+.description1{
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #E6E8EC;
+    text-align: center;
+}

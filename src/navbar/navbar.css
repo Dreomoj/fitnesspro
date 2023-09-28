@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px, 160px, 0px, 160px;
+    height: 144px;
+    gap: 90px;
+}
+.links{
+    text-decoration: none;
+    width: auto;
+}
+.link{
+    margin-right: 32px;
+    text-decoration: none;
+    color: #777E90;
+    font-weight: 700;
+}
+.butt1{
+    width: 111px;
+    height: 40px;
+    border-radius: 90px;
+    color: #FCFCFD;
+    border: solid 2px #777E90;
+    font-weight: 700;
+}
+.navicons{
+    margin-right: 24px;
+    color: #777E90; 
+}
+
+.icons {
+    display: flex;
+}
+.logoc{
+    border-right: 1px solid #777E90;
+    padding-right: 50px;
+}

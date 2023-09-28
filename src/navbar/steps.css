@@ -1,0 +1,60 @@
+.border1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px, 160px, 0px, 160px;
+    width: 100%;
+}
+
+.boxing-text1{
+    width: 448px;
+    height: 50%;
+}
+
+h1{
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 700;
+    letter-spacing: -1.28px;
+    color: #FCFCFD;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    /* width: 448px; */
+    font-size: 16px;
+    margin-top: 32px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: -1%;
+    color: #777E90;
+}
+
+.button{
+    background-color: #FF592C;
+    border-radius: 90px;
+    margin-top: 32px;
+    width: 148px;
+    height: 48px;
+    border: none;
+}
+
+.button span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px, 24px, 16px, 24px;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 700;
+    font-family: 'SF Pro Display', sans-serif;
+    color: #FCFCFD;
+    background: transparent;
+}
+.imageb{
+    width: 50%;
+}
+.img1{
+    width: 200px;
+    height: 386px;
+}
